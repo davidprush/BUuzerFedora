@@ -81,4 +81,3 @@ Use this script at your own risk. While it's designed to be safe and effective, 
 
 ---
 
-Feel free to adjust this markdown file according to your specific needs or additional instructions you might want to include.
