@@ -1,4 +1,4 @@
-# System and User Data Backup Script
+# Fedora System and User Data Backup Script
 
 ## Overview
 
@@ -48,16 +48,16 @@ Writes the list of programs to a text file on the selected USB drive.
 
 ## How to Use
 
-1. **Save the Script**: Copy the provided Python script into a file named `backup_script.py` on your Fedora Asahi Remix system.
+1. **Save the Script**: Copy the provided Python script into a file named `BUuzerFedora.py` on your Fedora Asahi Remix system.
 
 2. **Connect USB Drive**: Ensure at least one USB drive is connected and mounted.
 
 3. **Run the Script**:
    - Open a terminal.
-   - Navigate to the directory containing `backup_script.py`.
+   - Navigate to the directory containing `BUuzerFedora.py`.
    - Execute with:
      ```bash
-     sudo python3 backup_script.py
+     sudo python3 BUuzerFedora.py
      ```
 
 4. **Follow Prompts**:
